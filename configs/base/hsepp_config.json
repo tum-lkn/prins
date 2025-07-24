@@ -1,0 +1,15 @@
+{
+    "name": "hSEPP",
+    "fqdn": "hSEPP.example.com",
+    "ip": "127.0.0.5",
+    "port": 65435,
+    "certfile": null,
+    "keyfile": null,
+    "cafile": null,
+    "mode": "base",
+    "vipx_public_key": null,
+    "hipx_public_key": null,
+    "authorizedIpxId": [
+        null
+    ]
+}

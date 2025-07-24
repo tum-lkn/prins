@@ -1,0 +1,26 @@
+{
+    "name": "hSEPP",
+    "fqdn": "hSEPP.example.com",
+    "ip": "127.0.0.5",
+    "port": 65435,
+    "certfile": null,
+    "keyfile": null,
+    "cafile": null,
+    "mode": "prins_tcp",
+    "vipx_public_key": "keys/vIPX_public_key.pem",
+    "hipx_public_key": "keys/hIPX_public_key.pem",
+    "authorizedIpxId": [
+        "vIPX.example.com",
+        "hIPX.example.com"
+    ],
+    "authorizedIpxList": [
+        {
+            "ipxId": "vIPX.example.com",
+            "publicKey": "keys/vIPX_public_key.pem"
+        },
+        {
+            "ipxId": "hIPX.example.com",
+            "publicKey": "keys/hIPX_public_key.pem"
+        }
+    ]
+}

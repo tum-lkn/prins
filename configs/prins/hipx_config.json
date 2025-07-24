@@ -1,0 +1,15 @@
+{
+    "name": "hIPX",
+    "fqdn": "hIPX.example.com",
+    "ip": "127.0.0.4",
+    "port": 65433,
+    "next_ip": "127.0.0.5",
+    "next_port": 65435,
+    "certfile": "keys/hipx_cert.pem",
+    "keyfile": "keys/hipx_key.pem",
+    "cafile": "keys/ca_cert.pem",
+    "mode": "prins",
+    "IPX_private_key": "keys/hIPX_private_key.pem",
+    "IPX_public_key": "keys/hIPX_public_key.pem",
+    "next_allowed_ipx": null
+}

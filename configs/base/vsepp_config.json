@@ -1,0 +1,16 @@
+{
+    "name": "vSEPP",
+    "fqdn": "vIPX.example.com",
+    "ip": "127.0.0.2",
+    "port": 65431,
+    "next_ip": "127.0.0.3",
+    "next_port": 65432,
+    "target": "hSEPP.example.com",
+    "dst_ip": "127.0.0.5",
+    "dst_port": 65435,
+    "certfile": null,
+    "keyfile": null,
+    "cafile": null,
+    "mode": "base",
+    "authorizedIpxId": [null]
+}

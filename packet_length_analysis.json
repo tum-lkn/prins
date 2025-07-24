@@ -1,0 +1,177 @@
+{
+    "BASE": {
+        "small": {
+            "ciphertext": {
+                "packet_length": [214, 214, 214]
+            },
+            "even": {
+                "packet_length": [216, 216, 216]
+            },
+            "aad": {
+                "packet_length": [214, 214, 214]
+            }
+        },
+        "middle": {
+            "ciphertext": {
+                "packet_length": [572, 572, 572]
+            },
+            "even": {
+                "packet_length": [574, 574, 574]
+            },
+            "aad": {
+                "packet_length": [572, 572, 572]
+            }
+        },
+        "large": {
+            "ciphertext": {
+                "packet_length": [976, 976, 976]
+            },
+            "even": {
+                "packet_length": [978, 978, 978]
+            },
+            "aad": {
+                "packet_length": [976, 976, 976]
+            }
+        }
+    },
+    "E2E_TLS": {
+        "small": {
+            "ciphertext": {
+                "packet_length": [236, 236, 236]
+            },
+            "even": {
+                "packet_length": [238, 238, 238]
+            },
+            "aad": {
+                "packet_length": [236, 236, 236]
+            }
+        },
+        "middle": {
+            "ciphertext": {
+                "packet_length": [594, 594, 594]
+            },
+            "even": {
+                "packet_length": [596, 596, 596]
+            },
+            "aad": {
+                "packet_length": [594, 594, 594]
+            }
+        },
+        "large": {
+            "ciphertext": {
+                "packet_length": [998, 998, 998]
+            },
+            "even": {
+                "packet_length": [1000, 1000, 1000]
+            },
+            "aad": {
+                "packet_length": [998, 998, 998]
+            }
+        }
+    },
+    "H2H_TLS": {
+        "small": {
+            "ciphertext": {
+                "packet_length": [236, 236, 236]
+            },
+            "even": {
+                "packet_length": [238, 238, 238]
+            },
+            "aad": {
+                "packet_length": [236, 236, 236]
+            }
+        },
+        "middle": {
+            "ciphertext": {
+                "packet_length": [594, 594, 594]
+            },
+            "even": {
+                "packet_length": [596, 596, 596]
+            },
+            "aad": {
+                "packet_length": [594, 594, 594]
+            }
+        },
+        "large": {
+            "ciphertext": {
+                "packet_length": [998, 998, 998]
+            },
+            "even": {
+                "packet_length": [1000, 1000, 1000]
+            },
+            "aad": {
+                "packet_length": [998, 998, 998]
+            }
+        }
+    },
+    "PRINS": {
+        "small": {
+            "ciphertext": {
+                "packet_length": [412, 412, 412]
+            },
+            "even": {
+                "packet_length": [600, 846, 1098]
+            },
+            "aad": {
+                "packet_length": [587, 884, 1187]
+            }
+        },
+        "middle": {
+            "ciphertext": {
+                "packet_length": [958, 958, 958]
+            },
+            "even": {
+                "packet_length": [1104, 1458, 1818]
+            },
+            "aad": {
+                "packet_length": [996, 1682, 2374]
+            }
+        },
+        "large": {
+            "ciphertext": {
+                "packet_length": [1480, 1480, 1480]
+            },
+            "even": {
+                "packet_length": [1517, 2182, 2853]
+            },
+            "aad": {
+                "packet_length": [1388, 2425, 3468]
+            }
+        }
+    },
+    "PRINS_TCP": {
+        "small": {
+            "ciphertext": {
+                "packet_length": [390, 390, 390]
+            },
+            "even": {
+                "packet_length": [578, 824, 1076]
+            },
+            "aad": {
+                "packet_length": [565, 862, 1165]
+            }
+        },
+        "middle": {
+            "ciphertext": {
+                "packet_length": [936, 936, 936]
+            },
+            "even": {
+                "packet_length": [1082, 1436, 1796]
+            },
+            "aad": {
+                "packet_length": [974, 1660, 2352]
+            }
+        },
+        "large": {
+            "ciphertext": {
+                "packet_length": [1458, 1458, 1458]
+            },
+            "even": {
+                "packet_length": [1495, 2160, 2831]
+            },
+            "aad": {
+                "packet_length": [1366, 2403, 3446]
+            }
+        }
+    }
+}

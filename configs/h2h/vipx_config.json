@@ -1,0 +1,15 @@
+{
+    "name": "vIPX",
+    "fqdn": "vIPX.example.com",
+    "ip": "127.0.0.3",
+    "port": 65432,
+    "next_ip": "127.0.0.4",
+    "next_port": 65433,
+    "certfile": "keys/vipx_cert.pem",
+    "keyfile": "keys/vipx_key.pem",
+    "cafile": "keys/ca_cert.pem",
+    "mode": "h2h",
+    "IPX_private_key": null,
+    "IPX_public_key": null,
+    "next_allowed_ipx": null
+}

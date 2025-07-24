@@ -1,0 +1,15 @@
+{
+    "name": "hSEPP",
+    "fqdn": "hSEPP.example.com",
+    "ip": "127.0.0.5",
+    "port": 65435,
+    "certfile": "keys/hsepp_cert.pem",
+    "keyfile": "keys/hsepp_key.pem",
+    "cafile": "keys/ca_cert.pem",
+    "mode": "h2h",
+    "vipx_public_key": null,
+    "hipx_public_key": null,
+    "authorizedIpxId": [
+        null
+    ]
+}
